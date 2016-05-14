@@ -13,3 +13,8 @@ img {
 .band {
   font-style: italic;
 }
+
+.my-class {
+  border: black 2px;
+  padding: 6px;
+}
