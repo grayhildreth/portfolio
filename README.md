@@ -24,7 +24,7 @@ HTML, CSS, Bootstrap, & Git.
 
 ## Link to site on GitHub Pages
 
-
+http://grayhildreth.github.io/portfolio/
 
 ### License
 
